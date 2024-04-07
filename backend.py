@@ -11,11 +11,10 @@ from llama_index.llms.openai import OpenAI
 from llama_index.core import Settings, PromptHelper
 import tiktoken
 from llama_index.core.callbacks import CallbackManager, TokenCountingHandler
-import chromadb
+#import chromadb
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from IPython.display import Markdown, display
-import chromadb
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext, load_index_from_storage
 from llama_index.core.vector_stores import SimpleVectorStore
 from llama_index.core import PromptTemplate
@@ -82,10 +81,10 @@ def index_export(user_input):
 
 
 
-    chroma_client = chromadb.EphemeralClient()
-    db = chromadb.PersistentClient(path="./storage/chroma")
-    chroma_collection = db.get_or_create_collection("traffic_db")
-    chroma_store = ChromaVectorStore(chroma_collection=chroma_collection)
+    # chroma_client = chromadb.EphemeralClient()
+    # db = chromadb.PersistentClient(path="./storage/chroma")
+    # chroma_collection = db.get_or_create_collection("traffic_db")
+    # chroma_store = ChromaVectorStore(chroma_collection=chroma_collection)
 
 
 
@@ -104,7 +103,7 @@ def index_export(user_input):
 
     try:
         #rebuild storage index
-        storage_context = StorageContext.from_defaults(persist_dir='./storage/', vector_store=chroma_store)
+        storage_context = StorageContext.from_defaults(persist_dir='./storage/')#, vector_store=chroma_store)
         #load index
         index = VectorStoreIndex.from_documents(documents, service_context=service_context, Settings=Settings,storage_context=storage_context)
     
@@ -154,7 +153,7 @@ def index_export(user_input):
     node_postprocessors=[k_processor],
     response_synthesizer=response_synthesizer,
     text_qa_template=text_qa_template,
-    vector_store=chroma_store,
+    #vector_store=chroma_store,
     )
 
 
