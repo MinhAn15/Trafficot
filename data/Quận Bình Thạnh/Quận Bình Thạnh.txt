@@ -1,0 +1,33 @@
+Quận Bình Thạnh
+
+| 6:00 - 6:30     | Đường Điện Biên Phủ    | **Lưu thông khá thuận lợi** với mật độ xe cộ đều đặn vào buổi sáng sớm.                                               |
+| 6:30 - 7:00     | Đường Xô Viết Nghệ Tĩnh| **Có dấu hiệu ùn tắc** do người dân đổ về trung tâm thành phố cho công việc và học tập.                               |
+| 7:00 - 7:30     | Đường Phan Đăng Lưu    | **Giao thông đang tắc nghẽn** tại một số ngã tư do lượng xe tải và ô tô cá nhân tăng cao.                              |
+| 7:30 - 8:00     | Đường Bạch Đằng        | **Kẹt xe nghiêm trọng** trên cầu Bình Lợi do va chạm giao thông nhẹ và công trình sửa chữa cầu.                       |
+| 8:00 - 8:30     | Đường Nơ Trang Long    | **Giao thông chậm chạp** khi phụ huynh đưa đón con trẻ đến các trường học, đặc biệt quanh khu vực trường học cấp 2, 3.|
+| 8:30 - 9:00     | Đường Phạm Văn Đồng    | **Đã thông thoáng** sau giờ cao điểm, xe cộ di chuyển mượt mà hơn.                                                     |
+| 13:00 - 13:30   | Đường Điện Biên Phủ    | **Lưu thông thuận lợi**                                      |
+| 13:00 - 13:30   | Đường Huỳnh Mẫn Đạt    | **Rất thông thoáng**                                         |
+| 13:30 - 14:00   | Đường Xô Viết Nghệ Tĩnh| **Giao thông ổn định**                                       |
+| 13:30 - 14:00   | Đường Nguyễn Xí        | **Chậm trễ do công trình xây dựng** lân cận                 |
+| 14:00 - 14:30   | Đường Phan Đăng Lưu    | **Chịu ảnh hưởng bởi công trình**                           |
+| 14:00 - 14:30   | Đường Nguyễn Gia Trí   | **Khá vắng vẻ vào buổi chiều**                               |
+| 14:30 - 15:00   | Đường Bạch Đằng        | **Dòng xe di chuyển đều đặn**                                |
+| 14:30 - 15:00   | Đường D1               | **Không có sự cố giao thông** nổi bật                        |
+| 15:00 - 15:30   | Đường Nơ Trang Long    | **Bắt đầu ùn ứ** do học sinh tan trường                      |
+| 15:00 - 15:30   | Đường Lê Quang Định    | **Lượng xe đưa đón học sinh tăng đáng kể**                   |
+| 15:30 - 16:00   | Đường Phạm Văn Đồng    | **Giao thông bắt đầu tăng** nhưng vẫn thuận lợi              |
+| 15:30 - 16:00   | Đường D2               | **Thoáng đãng**, không ghi nhận vấn đề giao thông nào        |
+| 17:00 - 17:30   | Đường Điện Biên Phủ    | **Ùn tắc nhẹ** do lượng người tan làm                     |
+| 17:00 - 17:30   | Đường Xô Viết Nghệ Tĩnh| **Di chuyển chậm**, đặc biệt gần các ngã tư               |
+| 17:30 - 18:00   | Đường Bạch Đằng        | **Kẹt xe cục bộ** do lưu lượng xe cao                     |
+| 17:30 - 18:00   | Đường D1               | **Giao thông khá thông thoáng**                           |
+| 18:00 - 18:30   | Đường Phan Đăng Lưu    | **Tắc nghẽn ở mức độ trung bình**                        |
+| 18:00 - 18:30   | Đường Nguyễn Xí        | **Giao thông ổn định**, không có sự cố                    |
+| 18:30 - 19:00   | Đường Huỳnh Mẫn Đạt    | **Lưu thông chậm** do các phương tiện rẽ về nhà           |
+| 18:30 - 19:00   | Đường Nơ Trang Long    | **Dồn ứ tại các điểm nút giao thông**                     |
+| 19:00 - 19:30   | Đường Lê Quang Định    | **Ùn ứ giảm dần** khi giờ tan tầm đã qua                  |
+| 19:00 - 19:30   | Đường Nguyễn Gia Trí   | **Điều tiết tốt**, lưu thông mượt mà                      |
+| 19:30 - 20:00   | Đường Nguyễn Gia Trí   | Có một đám mèo con đang chạy trên đường dẫn đến kẹt xe                     
+| 20:00 - 20:30   | Đường Xô Viết Nghệ Tĩnh   | Tất cả tài xế đều xuống xe và đậu xe giữa đường                     |
+

@@ -1,0 +1,32 @@
+Quận Tân Bình
+
+
+| 06:00 - 06:15   | Đường Trường Chinh       | Tắc nghẽn nhẹ ở một số đoạn do người dân đi làm và đưa học sinh đến trường.            |
+| 06:00 - 06:15   | Đường Lê Văn Sỹ          | Lưu thông suôn sẻ, mặc dù mật độ xe bắt đầu tăng lên.                                 |
+| 06:00 - 06:15   | Đường Cộng Hòa           | Giao thông ổn định với lượng xe còn thấp vào buổi sáng sớm.                           |
+| 06:00 - 06:15   | Đường Hoàng Văn Thụ      | Các xe đưa đón học sinh hoạt động nhiều, cẩn trọng tại vùng quanh trường học.          |
+| 06:15 - 06:30   | Đường Trường Chinh       | Giao thông dần trở nên dày đặc hơn khi giờ cao điểm bắt đầu.                           |
+| 06:15 - 06:30   | Đường Lê Văn Sỹ          | Một số chỗ đậu xe ilegal gây chậm trễ nhẹ cho dòng chảy xe.                           |
+| 06:15 - 06:30   | Đường Cộng Hòa           | Dòng người đổ về sân bay Tân Sơn Nhất gia tăng, cảnh giác tại cổng ra vào sân bay.     |
+| 06:15 - 06:30   | Đường Hoàng Văn Thụ      | Lưu lượng xe từ sân bay ra đường chính gia tăng, giao thông vẫn ổn định.               |
+| 06:30 - 06:45   | Đường Trường Chinh       | Lưu thông khó khăn do ách tắc tại một số điểm gần chợ và trường học.                   |
+| 06:30 - 06:45   | Đường Lê Văn Sỹ          | Ách tắc cục bộ tại ngã tư do đèn giao thông và lượng sinh viên đến các trường đại học. |
+| 06:30 - 06:45   | Đường Cộng Hòa           | Lối vào sân bay Tân Sơn Nhất có dấu hiệu quá tải.                                      |
+| 06:30 - 06:45   | Đường Hoàng Văn Thụ      | Kẹt xe nhẹ tại các điểm giao với đường phụ.                                           |
+| 09:00 - 09:15   | Đường Trường Chinh       | Tình hình giao thông bắt đầu thông thoáng sau giờ cao điểm buổi sáng.                  |
+| 09:00 - 09:15   | Đường Lê Văn Sỹ          | Mật độ xe giảm, giao thông dần trở lại bình thường sau giờ tan tầm.                    |
+| 09:00 - 09:15   | Đường Cộng Hòa           | Giao thông thuận lợi, không còn hiện tượng ùn ứ nghiêm trọng.                         |
+| 09:00 - 09:15   | Đường Hoàng Văn Thụ      | Xe cộ di chuyển mượt mà hơn, ít xảy ra ách tắc ở những vị trí trước đó.                |
+| 15:45 - 16:00   | Đường Trường Chinh       | Giao thông khá thông thoáng do nhiều người đã rời khỏi khu vực trung tâm.     |
+| 15:45 - 16:00   | Đường Lê Văn Sỹ          | Lưu lượng xe dày đặc nhưng không có sự cố ùn tắc nào đáng kể.                  |
+| 15:45 - 16:00   | Đường Cộng Hòa           | Các phương tiện di chuyển mạch lạc đến sân bay Tân Sơn Nhất.                   |
+| 15:45 - 16:00   | Đường Hoàng Văn Thụ      | Xe cộ đông đúc do nhiều lượt khách du lịch đến và đi từ sân bay.             |
+| 16:00 - 16:15   | Đường Trường Chinh       | Các xe buýt bắt đầu gia tăng tần suất phục vụ giờ cao điểm chiều.             |
+| 16:00 - 16:15   | Đường Lê Văn Sỹ          | Ùn tắc nhẹ xuất hiện ở một số điểm giao cắt.                                  |
+| 16:00 - 16:15   | Đường Cộng Hòa           | Có sự chậm trễ nhẹ cho người héo hướng ra sân bay do lượng xe tăng.           |
+| 16:00 - 16:15   | Đường Hoàng Văn Thụ      | Xe taxi và xe hơi gia tăng nhưng vẫn di chuyển ổn định.                             |
+| 18:00 - 18:15   | Đường Trường Chinh       | Chuyển động giao thông liên tục nhưng không bị ách tắc.                       |
+| 18:00 - 18:15   | Đường Lê Văn Sỹ          | Ách tắc giao thông tại một số ngã tư do lượng khách tan tầm.                   |
+| 18:00 - 18:15   | Đường Cộng Hòa           | Lưu lượng xe giảm nhẹ sau giờ cao điểm.                                        |
+| 18:00 - 18:15   | Đường Hoàng Văn Thụ      | Giao thông phức tạp do vị trí gần các cơ sở thương mại lớn. |
+

@@ -1,0 +1,32 @@
+Quận 3
+
+| **05:00 - 05:15** | **Đường Nguyễn Đình Chiểu:**  | Sương sớm mờ ảo, giao thông thưa thớt.                                                   |
+| **05:00 - 05:15** | **Đường Pasteur:**            | Không khí mát mẻ, lưu lượng xe cộ nhẹ nhàng.                                            |
+| **05:00 - 05:15** | **Đường Hai Bà Trưng:**        | Xe cộ bắt đầu lưu thông, tình hình giao thông ổn định.                                  |
+| **05:00 - 05:15** | **Đường Nam Kỳ Khởi Nghĩa:**  | Dòng người và xe cộ dần xuất hiện, di chuyển mượt mà.                                   |
+| **05:15 - 05:30** | **Đường Nguyễn Đình Chiểu:**  | Giao thông vẫn còn vắng vẻ.                                                             |
+| **05:15 - 05:30** | **Đường Pasteur:**            | Nhiều cửa hàng bắt đầu mở cửa, xe cộ dần tăng nhưng không ùn tắc.                       |
+| **05:15 - 05:30** | **Đường Hai Bà Trưng:**        | Xe máy và ô tô tăng dần, giao thông vẫn đảm bảo thông suốt.                             |
+| **05:15 - 05:30** | **Đường Nam Kỳ Khởi Nghĩa:**  | Lưu lượng xe tăng nhẹ, không có sự cố nào đáng chú ý.                                   |
+| **05:30 - 05:45** | **Đường Nguyễn Đình Chiểu:**  | Một số xe tải nhỏ hoạt động, giao thông không bị ảnh hưởng.                              |
+| **05:30 - 05:45** | **Đường Pasteur:**            | Giao thông bắt đầu nhộn nhịp hơn khi mọi người chuẩn bị đi làm.                         |
+| **05:30 - 05:45** | **Đường Hai Bà Trưng:**        | Dòng xe cộ dày đặc hơn nhưng không quá tải.                                             |
+| **05:30 - 05:45** | **Đường Nam Kỳ Khởi Nghĩa:**  | Xe buýt và xe khách đầu tiên xuất hiện, giao thông ổn định.                             |
+| **05:45 - 06:00** | **Đường Nguyễn Đình Chiểu:**  | Ánh nắng ban mai xuất hiện, giao thông bình thường.                                     |
+| **05:45 - 06:00** | **Đường Pasteur:**            | Các phương tiện di chuyển đều đặn, dấu hiệu đầu tiên của giờ cao điểm.                 |
+| **05:45 - 06:00** | **Đường Hai Bà Trưng:**        | Giao thông dần trở nên sôi động.                                                        |
+| **05:45 - 06:00** | **Đường Nam Kỳ Khởi Nghĩa:**  | Sự đông đúc bắt đầu xuất hiện, nhưng không ngăn cản dòng chảy của xe cộ.                |
+| 15:45 - 16:00   | Đường Nguyễn Đình Chiểu    | Các cửa hàng mở cửa trở lại sau giờ nghỉ trưa.                        |
+| 15:45 - 16:00   | Đường Pasteur               | Người đi bộ và du khách tiếp tục tận hưởng không gian sôi động.       |
+| 15:45 - 16:00   | Đường Hai Bà Trưng          | Lưu lượng xe bắt đầu tăng do giờ tan tầm sắp đến.                     |
+| 15:45 - 16:00   | Đường Nam Kỳ Khởi Nghĩa    | Xe buýt và taxi tăng cường hoạt động.                                 |
+| 16:00 - 16:15   | Đường Nguyễn Đình Chiểu    | Người lao động bắt đầu rời văn phòng.                                 |
+| 16:00 - 16:15   | Đường Pasteur               | Khu vực trung tâm quận 3 đông đúc người đi lại.                       |
+| 16:00 - 16:15   | Đường Hai Bà Trưng          | Ùn tắc nhẹ có thể xảy ra.                                             |
+| 16:00 - 16:15   | Đường Nam Kỳ Khởi Nghĩa    | Dòng xe cộ di chuyển chậm chạp.                                        |
+| ...             | ...                         | ...                                                                   |
+| 18:00 - 18:15   | Đường Nguyễn Đình Chiểu    | Giao thông tương đối ổn định.                                         |
+| 18:00 - 18:15   | Đường Pasteur               | Các hoạt động vui chơi giải trí về đêm thu hút nhiều người.           |
+| 18:00 - 18:15   | Đường Hai Bà Trưng          | Lưu lượng xe cộ bắt đầu tăng do người dân đi chơi về.                 |
+| 18:00 - 18:15   | Đường Nam Kỳ Khởi Nghĩa    | Dòng xe cộ di chuyển chậm chạp hơn.                                    |
+

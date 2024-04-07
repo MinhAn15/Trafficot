@@ -1,0 +1,79 @@
+Quận 1
+
+
+| 06:00 - 06:15 | Đường Lê Lợi       | Giao thông khá thông thoáng.                                        |
+| 06:00 - 06:15 | Đường Nguyễn Huệ   | Ít xe, không kẹt xe.                                                |
+| 06:00 - 06:15 | Đường Lê Thánh Tôn | Có dấu hiệu ùn tắc nhẹ.                                             |
+| 06:00 - 06:15 | Đường Đồng Khởi     | Giao thông ổn định.                                                 |
+| 06:15 - 06:30 | Đường Lê Lợi       | Bắt đầu có sự gia tăng đáng kể của phương tiện.                     |
+| 06:15 - 06:30 | Đường Nguyễn Huệ   | Giao thông vẫn thông thoáng.                                        |
+| 06:15 - 06:30 | Đường Lê Thánh Tôn | Kẹt xe cục bộ tại ngã tư giao với Đường Trần Hưng Đạo.              |
+| 06:15 - 06:30 | Đường Đồng Khởi     | Xuất hiện một vài điểm tắc nghẽn nhẹ.                               |
+| 06:30 - 06:45 | Đường Lê Lợi       | Kẹt xe nghiêm trọng do lượng người đi làm cao điểm.                 |
+| 06:30 - 06:45 | Đường Nguyễn Huệ   | Xe cộ bắt đầu tăng lên nhưng vẫn không kẹt xe.                      |
+| 06:30 - 06:45 | Đường Lê Thánh Tôn | Tình trạng ùn tắc trở nên trầm trọng hơn.                           |
+| 06:30 - 06:45 | Đường Đồng Khởi     | Giao thông chậm chạp nhưng không có dấu hiệu kẹt xe.                |
+| 06:45 - 07:00 | Đường Lê Lợi       | Tình trạng kẹt xe tiếp tục không được cải thiện.                    |
+| 06:45 - 07:00 | Đường Nguyễn Huệ   | Bắt đầu có dấu hiệu chậm lại ở một số đoạn có công trình xây dựng.  |
+| 06:45 - 07:00 | Đường Lê Thánh Tôn | Kẹt xe nghiêm trọng, xem xét đường vòng nếu có thể.                 |
+| 06:45 - 07:00 | Đường Đồng Khởi     | Công an giao thông bắt đầu xuất hiện để điều tiết.                  |
+| **07:00 - 07:15** | **Đường Lê Lợi:**     | Kẹt xe không giảm, cảnh sát giao thông điều tiết.                                                             |
+| **07:00 - 07:15** | **Đường Nguyễn Huệ:** | Xe dày đặc, lưu thông tốt.                                                                                    |
+| **07:00 - 07:15** | **Đường Lê Thánh Tôn:** | Kẹt xe lan vào ngã tư kề cận.                                                                                 |
+| **07:00 - 07:15** | **Đường Đồng Khởi:**   | Dòng xe chậm, hạn chế đi vào khu vực.                                                                         |
+| **07:15 - 07:30** | **Đường Lê Lợi:**     | Tắc nghẽn kéo dài, thời gian chờ 30 phút.                                                                     |
+| **07:15 - 07:30** | **Đường Nguyễn Huệ:** | Ùn ứ tăng khi lượng xe tăng.                                                                                  |
+| **07:15 - 07:30** | **Đường Lê Thánh Tôn:** | Chịu ảnh hưởng, xe buýt có thể chậm.                                                                         |
+| **07:15 - 07:30** | **Đường Đồng Khởi:**   | Xe cứu thương ưu tiên, chậm trễ.                                                                              |
+07:45 - 08:00	Lê Lợi	Cảnh sát giao thông điều tiết mạnh mẽ, xe lưu thông cầm chừng
+07:45 - 08:00	Nguyễn Huệ	Lưu lượng xe giảm bớt nhẹ
+07:45 - 08:00	Lê Thánh Tôn	Ùn tắc giữ nguyên
+07:45 - 08:00	Đồng Khởi	Việc xử lý va chạm khiến giao thông phức tạp
+08:00 - 08:15	Lê Lợi	Kẹt xe nghiêm trọng
+08:00 - 08:15	Nguyễn Huệ	Giao thông bắt đầu chậm lại (công trình xây dựng)
+08:00 - 08:15	Lê Thánh Tôn	Kẹt xe trầm trọng, khuyến nghị tìm đường phụ
+08:00 - 08:15	Đồng Khởi	Giao thông chậm chạp
+08:15 - 08:30	Lê Lợi	Kẹt xe không giảm
+08:15 - 08:30	Nguyễn Huệ	Tiếp tục chậm lại (công trình xây dựng)
+08:15 - 08:30	Lê Thánh Tôn	Ùn tắc tăng lên
+08:15 - 08:30	Đồng Khởi	Công an giao thông xuất hiện để điều tiết
+08:30 - 08:45	Lê Lợi	Kẹt xe nghiêm trọng, không cải thiện
+08:30 - 08:45	Nguyễn Huệ	Giao thông vẫn chậm lại
+08:30 - 08:45	Lê Thánh Tôn	Ùn tắc trầm trọng, khuyến nghị đi đường khác
+08:30 - 08:45	Đồng Khởi	Công an giao thông phối hợp giảm tắc nghẽn
+08:45 - 09:00	Lê Lợi	Kẹt xe nghiêm trọng, không giảm
+08:45 - 09:00	Nguyễn Huệ	Tiếp tục chậm lại
+08:45 - 09:00	Lê Thánh Tôn	Ùn tắc không giảm, cần can thiệp
+08:45 - 09:00	Đồng Khởi	Giao thông chậm chạp
+09:00 - 09:15	Lê Lợi	Kẹt xe nghiêm trọng
+09:00 - 09:15	Nguyễn Huệ	Tiếp tục chậm lại (công trình xây dựng)
+09:00 - 09:15	Lê Thánh Tôn	Ùn tắc không giảm
+09:00 - 09:15	Đồng Khởi	Giao thông chậm chạp
+09:15 - 09:30	Lê Lợi	Kẹt xe tiếp tục không giảm
+09:15 - 09:30	Nguyễn Huệ	Giao thông vẫn chậm lại
+09:15 - 09:30	Lê Thánh Tôn	Ùn tắc trầm trọng, khuyến nghị đi đường khác
+09:15 - 09:30	Đồng Khởi	Công an giao thông phối hợp giảm tắc nghẽn
+09:30 - 09:45	Lê Lợi	Kẹt xe nghiêm trọng, không giảm
+09:30 - 09:45	Nguyễn Huệ	Tiếp tục chậm lại
+09:30 - 09:45	Lê Thánh Tôn	Ùn tắc không giảm, cần can thiệp
+09:30 - 09:45	Đồng Khởi	Giao thông chậm chạp
+09:45 - 10:00	Lê Lợi	Giao thông vẫn kẹt xe nghiêm trọng
+09:45 - 10:00	Nguyễn Huệ	Tiếp tục chậm lại (công trình xây dựng)
+09:45 - 10:00	Lê Thánh Tôn	Tình trạng ùn tắc không giảm
+09:45 - 10:00	Đồng Khởi	Giao thông diễn ra chậm chạp
+10:00 - 10:15	Lê Lợi	Tình trạng giao thông đã cải thiện, không còn ách tắc nghiêm trọng
+10:00 - 10:15	Nguyễn Huệ	Lưu thông mượt mà, các cửa hàng bên đường bắt đầu mở cửa
+10:00 - 10:15	Lê Thánh Tôn	Ùn tắc giảm dần, giao thông bắt đầu bình thường
+10:00 - 10:15	Đồng Khởi	Hậu quả của vụ va chạm sáng sớm đã được xử lý, dòng xe ổn định
+10:15 - 10:30	Lê Lợi	Xe cộ lưu thông thuận lợi
+10:15 - 10:30	Nguyễn Huệ	Giao thông nhộn nhịp với khách du lịch, xe cộ di chuyển thoải mái
+10:15 - 10:30	Lê Thánh Tôn	Giao thông không có trở ngại
+10:15 - 10:30	Đồng Khởi	Không ghi nhận vấn đề giao thông đáng kể
+10:30 - 10:45	Lê Lợi	Vẫn duy trì trạng thái lưu thông tốt
+10:30 - 10:45	Nguyễn Huệ	Dòng người đông đúc trên vỉa hè, xe cộ di chuyển chậm để đảm bảo an toàn
+10:30 - 10:45	Lê Thánh Tôn	Giao thông chạy trơn tru
+10:30 - 10:45	Đồng Khởi	Dòng xe dừng đỗ bên đường tăng lên nhưng lưu thông chưa bị ảnh hưởng nhiều
+10:45 - 11:00	Lê Lợi	Tình hình giao thông ổn định
+10:45 - 11:00	Nguyễn Huệ	Khách du lịch tham gia các tour đi bộ, xe cộ di chuyển chậm để đảm bảo an toàn
+10:45 - 11:00	Lê Thánh Tôn	Giao thông không còn cảnh tắc đường
+10:45 - 11:00	Đồng Khởi	Giao thông như thường lệ, không có sự cố đáng chú ý

@@ -1,0 +1,36 @@
+Quận 7
+
+
+| 6:00 - 6:30     | Đường Nguyễn Văn Linh  | **Giao thông khá nhẹ nhàng** với lưu lượng xe thấp                      |
+| 6:00 - 6:30     | Đường Huỳnh Tấn Phát   | **Một số phương tiện ra ngoài sớm** nhưng không gây ùn tắc               |
+| 6:30 - 7:00     | Đường Nguyễn Thị Thập  | **Bắt đầu đông đúc** do người dân di chuyển tới nơi làm việc            |
+| 6:30 - 7:00     | Đường Nguyễn Lương Bằng| **Có dấu hiệu của ùn tắc nhẹ** ở các điểm giao cắt                      |
+| 7:00 - 7:30     | Đường Lê Văn Lương     | **Giao thông bắt đầu kẹt cứng** tại các nút giao thông chính            |
+| 7:00 - 7:30     | Đường Đào Trí          | **Tốc độ xe chậm lại** do lượng xe tăng cao                              |
+| 7:30 - 8:00     | Cầu Phú Mỹ             | **Ùn tắc nghiêm trọng** do dòng xe hướng vào trung tâm thành phố         |
+| 7:30 - 8:00     | Đường Tân Phú          | **Tình trạng thông thoáng** dù có nhiều xe hơi và xe máy                |
+| 8:00 - 8:30     | Đường Tân Thuận        | **Các phương tiện di chuyển một cách thuận lợi** không có ùn tắc         |
+| 8:00 - 8:30     | Đường Trần Xuân Soạn   | **Kẹt xe cục bộ** do hoạt động xả trường của học sinh                   |
+| 8:30 - 9:00     | Đường Nguyễn Văn Linh  | **Lưu lượng xe giảm nhẹ** khi giờ cao điểm kết thúc                     |
+| 8:30 - 9:00     | Đường Huỳnh Tấn Phát   | **Tình trạng giao thông ổn định** với một vài phương tiện đi làm muộn   |
+| 13:00 - 13:30   | Đường Nguyễn Văn Linh  | **Giao thông thoải mái**, không có sự cố nào ghi nhận                    |
+| 13:00 - 13:30   | Đường Huỳnh Tấn Phát   | **Ùn tắc nhẹ** tại một số điểm có công trình xây dựng                     |
+| 13:30 - 14:00   | Đường Nguyễn Thị Thập  | **Di chuyển trơn tru**, tốc độ xe đều                                      |
+| 13:30 - 14:00   | Đường Nguyễn Lương Bằng| **Một số khu vực có mật độ xe cao** do giờ ăn trưa của văn phòng         |
+| 14:00 - 14:30   | Đường Lê Văn Lương     | **Giao thông khá thông thoáng** trừ các điểm có trường học tan trường    |
+| 14:00 - 14:30   | Đường Đào Trí          | **Lưu thông mượt mà**, không cản trở bởi người qua đường hay xe hơi       |
+| 14:30 - 15:00   | Cầu Phú Mỹ             | **Thuận tiện cho việc đi lại**, tầm nhìn rõ ràng không có sương mù        |
+| 14:30 - 15:00   | Đường Tân Phú          | **Hơi đông đúc** do các cửa hàng mở cửa lại sau giờ nghỉ trưa             |
+| 15:00 - 15:30   | Đường Tân Thuận        | **Lưu lượng xe ổn định**, không có trở ngại đáng kể                        |
+| 15:00 - 15:30   | Đường Trần Xuân Soạn   | **Giao thông thuận lợi**, dễ dàng di chuyển trên tuyến đường này           |
+| 17:00 - 17:30   | Đường Nguyễn Văn Linh  | **Ùn tắc nghiêm trọng** ở các nút giao với Đường Nguyễn Thị Thập    |
+| 17:00 - 17:30   | Đường Huỳnh Tấn Phát   | **Tình trạng giao thông khá** với một vài điểm chậm trễ              |
+| 17:30 - 18:00   | Đường Nguyễn Thị Thập  | **Lưu thông đông đúc** nhưng không có sự cố giao thông lớn           |
+| 17:30 - 18:00   | Đường Nguyễn Lương Bằng| **Chạy ổn định**, mật độ xe cao nhưng không ùn ứ                    |
+| 18:00 - 18:30   | Đường Lê Văn Lương     | **Xe cộ nhích từ từ** do lượng người tan làm đông đảo                |
+| 18:00 - 18:30   | Đường Nguyễn Văn Linh  |  Có một bầy mèo ngồi giữa đường làm kẹt xe			|
+| 18:00 - 18:30   | Đường Đào Trí          | **Thuận lợi cho việc di chuyển** với ít phương tiện                  |
+| 18:30 - 19:00   | Cầu Phú Mỹ             | **Kẹt xe cục bộ** tại đầu cầu do dòng xe hướng về trung tâm TP.HCM   |
+| 18:30 - 19:00   | Đường Tân Phú          | **Tình trạng thông thoáng**, không gặp vấn đề đáng kể               |
+| 19:00 - 19:30   | Đường Tân Thuận        | **Giao thông nhộn nhịp** nhưng di chuyển mượt mà                     |
+| 19:00 - 19:30   | Đường Trần Xuân Soạn   | **Ùn tắc giảm dần
