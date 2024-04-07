@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_chat import message
+from __init__ import message
 import os
 from backend import index_export
 
