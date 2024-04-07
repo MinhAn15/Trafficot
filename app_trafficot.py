@@ -1,8 +1,9 @@
 import streamlit as st
+#from streamlit_chat import message
 import os
 from backend import index_export
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 st.header("Trafficot - Trợ lý Giao thông AI 🗺️🚗")
 st.info("Xem thêm thông tin tại (http://giaothong.hochiminhcity.gov.vn/)", icon="📃")
 
