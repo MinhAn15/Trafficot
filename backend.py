@@ -12,7 +12,7 @@ from llama_index.core import Settings, PromptHelper
 import tiktoken
 from llama_index.core.callbacks import CallbackManager, TokenCountingHandler
 #import chromadb
-from llama_index.vector_stores.chroma import ChromaVectorStore
+#from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from IPython.display import Markdown, display
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext, load_index_from_storage
