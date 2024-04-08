@@ -9,7 +9,7 @@ st.info("Xem thêm thông tin tại (http://giaothong.hochiminhcity.gov.vn/)", i
 
 if "messages" not in st.session_state.keys(): # Initialize the chat message history
     st.session_state.messages = [
-        {"role": "assistant", "content": "Xin chào! Hãy cho tôi biết bạn cần gì? 😁 "}
+        {"role": "assistant", "content": "Xin chào! Hãy cho tôi biết bạn cần gì? 😁 👌"}
     ]
 
 
@@ -22,11 +22,6 @@ def load_response(message):
 if prompt := st.chat_input("Câu hỏi của bạn"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-# Chagne icon chat
-for message in st.session_state.messages: # Display the prior chat messages
-    role_icon = "💬" if message["role"] == "user" else "😁👌" # Chọn icon dựa trên vai trò
-    with st.chat_message(message["role"]):
-        st.write(f"{role_icon} {message['content']}")
 
 for message in st.session_state.messages: # Display the prior chat messages
     with st.chat_message(message["role"]):
