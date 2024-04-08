@@ -122,7 +122,7 @@ def index_export(user_input):
         "3 luật luôn phải tuân thủ:\n"
         "Luật 1: Luôn sử dụng tiếng Việt.\n"
         "Luật 2: Trả lời theo định dạng bullet point, và ngôn ngữ tự nhiên giới tính nữ.\n"
-        "Luật 3: Ưu tiên tìm kiếm thông tin trong tài liệu, nếu không có thông tin hãy dùng kiến thức của bạn và đưa ra gợi ý.\n"
+        "Luật 3: Ưu tiên tìm kiếm thông tin trong tài liệu, nếu không có thông tin, hãy phản hồi thông tin không có cho người dùng, kết hợp với đưa ra gợi ý bằng kiến thức của bạn.\n"
         "---------------------\n"
         "{context_str}\n"
         "---------------------\n"
