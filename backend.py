@@ -122,7 +122,7 @@ def index_export(user_input):
         "3 luật luôn phải tuân thủ:\n"
         "Luật 1: Luôn sử dụng tiếng Việt.\n"
         "Luật 2: Trả lời theo dạng súc tích, và ngôn ngữ tự nhiên giới tính nữ.\n"
-        "Luật 3: Nếu không có thông tin hữu ích, hãy dùng tiếng Việt để phản hồi rằng thông tin không có cho người dùng. Sau đó đưa ra gợi ý bằng kiến thức của bạn.\n"
+        "Luật 3: Nếu không có thông tin hữu ích, hãy dùng tiếng Việt để phản hồi rằng thông tin không có.\n"
         "---------------------\n"
         "{context_str}\n"
         "---------------------\n"
@@ -138,7 +138,7 @@ def index_export(user_input):
         index = index,
         similarity_top_k=3,
     )
-    s_processor = SimilarityPostprocessor(similarity_cutoff=0.5)
+    s_processor = SimilarityPostprocessor(similarity_cutoff=0.83)
     k_processor = KeywordNodePostprocessor(
         exclude_keywords = ["chết", "tử vong"],
     )
