@@ -126,7 +126,7 @@ def index_export(user_input):
     "Prior the context information to "
     "answer the question: {query_str}\n"
     "3 Rules to follow:\n"
-    "1.If the context information isn't helpful, use vietnamese said that information is not available and suggest by your own knowledge.\n"
+    "1.If the context information isn't helpful, use vietnamese to said that information is not available. After that response the suggestion by your own knowledge.\n"
     "2.Always Use vietnamese to answer.\n"
     "3.Use bullet point and human's natural tone.")
         
