@@ -123,7 +123,7 @@ def index_export(user_input):
     "---------------------\n"
     "{context_str}\n"
     "---------------------\n"
-    "Using only the context information to "
+    "Prior the context information to "
     "answer the question: {query_str}\n"
     "3 Rules to follow:\n"
     "1.If the context information isn't helpful, use vietnamese said that information is not available and suggest by your own knowledge.\n"
