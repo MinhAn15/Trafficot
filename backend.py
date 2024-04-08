@@ -72,10 +72,10 @@ def index_export(user_input):
     llm = OpenAI(model="gpt-3.5-turbo")
     Settings.llm = llm
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
-    Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
-    Settings.num_output = 512
+    Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
+    Settings.num_output = 1024
     Settings.context_window = 3900
-    Settings.transformations = [SentenceSplitter(chunk_size=1024)]
+    Settings.transformations = [SentenceSplitter(chunk_size=512)]
     Settings.tokenizer = tiktoken.encoding_for_model("gpt-3.5-turbo").encode
     Settings.callback_manager = CallbackManager([token_counter])
 
@@ -93,7 +93,7 @@ def index_export(user_input):
     llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
     #define prompt helper
     #set maximum input size
-    max_input_size = 4096
+    max_input_size = 8192
     #set number of output tokens
     num_output = 512
     #set maimum chunk overlap
