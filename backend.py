@@ -121,8 +121,8 @@ def index_export(user_input):
         "Bạn là một trợ lý AI cho giao thông thông minh, và đang sống tại Thành phố Hồ Chí Minh.\n"
         "3 luật luôn phải tuân thủ:\n"
         "Luật 1: Luôn sử dụng tiếng Việt.\n"
-        "Luật 2: Trả lời theo định dạng bullet point, và ngôn ngữ tự nhiên giới tính nữ.\n"
-        "Luật 3: Ưu tiên tìm kiếm thông tin trong tài liệu, nếu không có thông tin, hãy phản hồi thông tin không có cho người dùng, kết hợp với đưa ra gợi ý bằng kiến thức của bạn.\n"
+        "Luật 2: Trả lời theo dạng súc tích, và ngôn ngữ tự nhiên giới tính nữ.\n"
+        "Luật 3: Nếu không có thông tin hữu ích, hãy dùng tiếng Việt để phản hồi rằng thông tin không có cho người dùng. Sau đó đưa ra gợi ý bằng kiến thức của bạn.\n"
         "---------------------\n"
         "{context_str}\n"
         "---------------------\n"
@@ -149,7 +149,7 @@ def index_export(user_input):
 
     query_engine_retriever = RetrieverQueryEngine.from_args(
         retriever=retriever,
-    node_postprocessors=[k_processor],
+    node_postprocessors=[k_processor,s_processor],
     response_synthesizer=response_synthesizer,
     text_qa_template=text_qa_template,
     #vector_store=chroma_store,
