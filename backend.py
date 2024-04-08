@@ -32,9 +32,9 @@ from llama_index.core.response.pprint_utils import pprint_response
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
-os.environ['NUMEXPR_MAX_THREADS'] = '4'
-os.environ['NUMEXPR_NUM_THREADS'] = '2'
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ['NUMEXPR_MAX_THREADS'] = '8'
+os.environ['NUMEXPR_NUM_THREADS'] = '4'
+#os.environ["OPENAI_API_KEY"] = "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"
 
 
 nest_asyncio.apply()
@@ -49,7 +49,7 @@ def index_export(user_input):
 
     # Call Vector Index
     # vector_index = VectorStoreIndex.from_documents(docs_lst)
-    service_context = ServiceContext.from_defaults(chunk_size=1024)
+    service_context = ServiceContext.from_defaults(chunk_size=256)
     nodes = service_context.node_parser.get_nodes_from_documents(documents)
     list_index = ListIndex(nodes)
 
@@ -73,9 +73,9 @@ def index_export(user_input):
     Settings.llm = llm
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
-    Settings.num_output = 1024
+    Settings.num_output = 2048
     Settings.context_window = 3900
-    Settings.transformations = [SentenceSplitter(chunk_size=512)]
+    Settings.transformations = [SentenceSplitter(chunk_size=256)]
     Settings.tokenizer = tiktoken.encoding_for_model("gpt-3.5-turbo").encode
     Settings.callback_manager = CallbackManager([token_counter])
 
@@ -93,9 +93,9 @@ def index_export(user_input):
     llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
     #define prompt helper
     #set maximum input size
-    max_input_size = 8192
+    max_input_size = 13000
     #set number of output tokens
-    num_output = 512
+    num_output = 2048
     #set maimum chunk overlap
     max_chunk_overlap = 0.8
     prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
