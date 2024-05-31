@@ -74,7 +74,7 @@ def index_export(user_input):
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
     Settings.num_output = 2048
-    Settings.context_window = 3900
+    Settings.context_window = 4096
     Settings.transformations = [SentenceSplitter(chunk_size=256)]
     Settings.tokenizer = tiktoken.encoding_for_model("gpt-3.5-turbo").encode
     Settings.callback_manager = CallbackManager([token_counter])
