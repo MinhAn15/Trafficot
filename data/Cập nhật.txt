@@ -4,7 +4,7 @@ ITSSPK00_1046 ĐOẠN CHỢ LỚN VẬT CẢN VẬN TỐC KHOẢNG HAI MƯƠI L�
 ITSSPK00_1048 ĐOẠN CỔNG BỆNH VIỆN THỐNG NHẤT TẮC ĐƯỜNG VẬN TỐC KHOẢNG HAI MƯƠI BẢY KI LÔ MÉT TRÊN GIỜ
 ITSSPK00_1076 ĐOẠN TRẦN QUÝ KẸT XE GÂY CẢN TRỞ GIAO THÔNG VẬN TỐC KHOẢNG BỐN MƯƠI MỐT KI LÔ MÉT TRÊN GIỜ
 ITSSPK00_1084 ĐOẠN PHÓ CƠ ĐIỀU ĐƯỜNG CẤM VẬN TỐC KHOẢNG BỐN MƯƠI BẢY KI LÔ MÉT TRÊN GIỜ
-ITSSPK00_1088 ĐOẠN VƯỜN LÀI TẮC ĐƯỜNG VẬN TỐC KHOẢNG MỘT KI LÔ MÉT TRÊN GIỜ
+ITSSPK00_1088 ĐOẠN VƯỜN LÀI TẮC ĐƯỜNG VẬN TỐC KHOẢNG 10 km/h
 ITSSPK00_1089 ĐOẠN NGUYỄN TRÃI TẮC ĐƯỜNG KÉO DÀI VẬN TỐC KHOẢNG HAI KI LÔ MÉT TRÊN GIỜ
 ITSSPK00_1101 ĐOẠN CHU VĂN AN GIỜ TAN LÀM VẬN TỐC KHOẢNG HAI MƯƠI NĂM KI LÔ MÉT TRÊN GIỜ
 ITSSPK00_1106 ĐOẠN LƯƠNG THẾ VINH NHIỀU XE BUÝT RA VÀO ĐÓN KHÁCH VẬN TỐC KHOẢNG HAI MƯƠI CHÍN KI LÔ MÉT TRÊN GIỜ
