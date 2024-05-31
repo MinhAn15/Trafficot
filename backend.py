@@ -146,7 +146,7 @@ def index_export(user_input):
     )
 
     response_synthesizer = get_response_synthesizer(
-        response_mode="Compact"
+        response_mode="compact"
     )
 
     query_engine_retriever = RetrieverQueryEngine.from_args(
