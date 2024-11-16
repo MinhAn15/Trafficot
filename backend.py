@@ -2,6 +2,10 @@ import logging
 import sys
 import os
 import openai
+from google.generativeai import Gemini
+from llama_index.llms.google import Gemini as GeminiLLM # Use Gemini LLM
+from llama_index.embeddings.google import GeminiEmbedding # Use Gemini embedding
+
 import numexpr as ne
 import nest_asyncio
 from llama_index.core import ListIndex, ServiceContext, VectorStoreIndex, SimpleDirectoryReader
@@ -69,7 +73,8 @@ def index_export(user_input):
     callback_manager = CallbackManager([token_counter])
 
 
-    llm = OpenAI(model="gpt-3.5-turbo")
+    #llm = OpenAI(model="gpt-3.5-turbo")
+    llm = GeminiLLM(model="gemini-pro", temperature=0.1) 
     Settings.llm = llm
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
