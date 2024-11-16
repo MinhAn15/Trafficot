@@ -2,9 +2,9 @@ import logging
 import sys
 import os
 import openai
-from google.generativeai import Gemini
-from llama_index.llms.google import Gemini as GeminiLLM # Use Gemini LLM
-from llama_index.embeddings.google import GeminiEmbedding # Use Gemini embedding
+#from google.generativeai import Gemini
+#from llama_index.llms.google import Gemini as GeminiLLM # Use Gemini LLM
+#from llama_index.embeddings.google import GeminiEmbedding # Use Gemini embedding
 
 import numexpr as ne
 import nest_asyncio
@@ -74,7 +74,8 @@ def index_export(user_input):
 
 
     #llm = OpenAI(model="gpt-3.5-turbo")
-    llm = GeminiLLM(model="gemini-pro", temperature=0.1) 
+    #llm = GeminiLLM(model="gemini-pro", temperature=0.1) 
+    llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
     Settings.llm = llm
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
@@ -95,7 +96,7 @@ def index_export(user_input):
 
 
 
-    llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
+    
     #define prompt helper
     #set maximum input size
     max_input_size = 13000
