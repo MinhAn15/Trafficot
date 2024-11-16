@@ -34,7 +34,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 os.environ['NUMEXPR_MAX_THREADS'] = '8'
 os.environ['NUMEXPR_NUM_THREADS'] = '4'
-#os.environ["OPENAI_API_KEY"] = "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"
+
 
 
 nest_asyncio.apply()
