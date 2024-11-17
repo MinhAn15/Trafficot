@@ -67,7 +67,7 @@ def index_export(user_input):
 
 
     token_counter = TokenCountingHandler(
-        tokenizer=tiktoken.encoding_for_model("gpt-4o4o").encode,
+        tokenizer=tiktoken.encoding_for_model("gpt-4o").encode,
         verbose=True
     )
     callback_manager = CallbackManager([token_counter])
@@ -83,7 +83,7 @@ def index_export(user_input):
     Settings.num_output = 8000
     Settings.context_window = 16000
     Settings.transformations = [SentenceSplitter(chunk_size=256)]
-    Settings.tokenizer = tiktoken.encoding_for_model("gpt-3.5-turbo").encode
+    Settings.tokenizer = tiktoken.encoding_for_model("gpt-4o").encode
     Settings.callback_manager = CallbackManager([token_counter])
 
 
@@ -102,7 +102,7 @@ def index_export(user_input):
     #set maximum input size
     max_input_size = 13000
     #set number of output tokens
-    num_output = 2048
+    num_output = 8000
     #set maimum chunk overlap
     max_chunk_overlap = 0.8
     prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
