@@ -67,7 +67,7 @@ def index_export(user_input):
 
 
     token_counter = TokenCountingHandler(
-        tokenizer=tiktoken.encoding_for_model("gpt-4o"),#.encode,
+        tokenizer=tiktoken.encoding_for_model("gpt-4-0613").encode,
         verbose=True
     )
     callback_manager = CallbackManager([token_counter])
@@ -83,7 +83,7 @@ def index_export(user_input):
     Settings.num_output = 8000
     Settings.context_window = 16000
     Settings.transformations = [SentenceSplitter(chunk_size=256)]
-    Settings.tokenizer = tiktoken.encoding_for_model("gpt-4o")#.encode
+    Settings.tokenizer = tiktoken.encoding_for_model("gpt-4-0613").encode
     Settings.callback_manager = CallbackManager([token_counter])
 
 
