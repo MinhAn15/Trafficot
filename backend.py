@@ -67,7 +67,7 @@ def index_export(user_input):
 
 
     token_counter = TokenCountingHandler(
-        tokenizer=tiktoken.encoding_for_model("gpt-3.5-turbo").encode,
+        tokenizer=tiktoken.encoding_for_model("gpt-4o4o").encode,
         verbose=True
     )
     callback_manager = CallbackManager([token_counter])
