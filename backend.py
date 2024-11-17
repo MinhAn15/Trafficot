@@ -76,7 +76,8 @@ def index_export(user_input):
     #llm = OpenAI(model="gpt-3.5-turbo")
     #llm = GeminiLLM(model="gemini-pro", temperature=0.1) 
     #llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
-    llm = OpenAI(temperature=0.1, model_name="gpt-4o")
+    #llm = OpenAI(temperature=0.1, model_name="gpt-4o")
+    llm = OpenAI(temperature=0.1, model_name="gpt-3.5-turbo")
     Settings.llm = llm
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     Settings.node_parser = SentenceSplitter(chunk_size=256, chunk_overlap=80)
